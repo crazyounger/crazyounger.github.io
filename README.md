@@ -1,1 +1,3 @@
-"# crazyounger.github.io" 
+#一点点说明
+
+自己搭建的第一个博客
